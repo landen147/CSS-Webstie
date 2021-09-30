@@ -8,10 +8,10 @@ h1 {
     font-size: 67;
 }
 a:link {
-    color: aqua;
+    color: #10ecec;
 }
 a:visited {
-    color: aqua;
+    color: #04f6f6;
 }
 a:hover {
     color:#0bf6f6;
