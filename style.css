@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(244, 0, 47); 
+}        
+h1 {
+    color: #00fcfc;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 67;
+}
+a:link {
+    color: aqua;
+}
+a:visited {
+    color: aqua;
+}
+a:hover {
+    color:#0bf6f6;
+}
+a {
+    text-decoration: none;
+    font-size: 28;
+}
